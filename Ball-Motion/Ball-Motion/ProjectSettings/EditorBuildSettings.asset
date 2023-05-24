@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MazeBall.unity
     guid: 93653ce048d38cb498ce885c16b61183
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 779ef5f19d41abb4b9a1b700c5c22cc4
+  - enabled: 1
+    path: Assets/Scenes/Win Screen.unity
+    guid: 81a40ba652cab3f40a221496044ac2cb
   m_configObjects: {}

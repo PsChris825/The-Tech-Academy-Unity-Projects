@@ -348,6 +348,7 @@
 "Assets/CameraController.cs"
 "Assets/SphereController.cs"
 "Assets/TitleScreejController.cs"
+"Assets/WinCondition.cs"
 -langversion:9.0
 
 /deterministic
